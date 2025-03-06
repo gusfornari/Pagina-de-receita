@@ -1,3 +1,21 @@
+*{
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: #573A37;
+}
+
+h1{
+  font-family: "Alice", serif;
+  font-size: 40px;
+  line-height: 140%;
+  color: #291B1A;
+}
+
+h2 {
+  font-size: 24px;
+  color: #291B1A;
+}
+
 body {
   /*background color image reapeat position/size*/
   background: url(./assets/bg-image.png);
