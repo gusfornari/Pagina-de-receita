@@ -35,7 +35,7 @@ the recipe page is a kitchen instruction manual for a coffe cupcake
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita). You must have a [Figma](https://figma.com) account to access it.
 
 ---
 
