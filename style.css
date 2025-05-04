@@ -1,11 +1,16 @@
+*{
+  font-family: "Alice", serif;
+  font-weight: 400;
+  line-height: 150%;
+}
+
 body{
   background: url(./Assets/BG.jpg) no-repeat center/cover
 }
 
 #container{
+box-sizing: border-box;
 width: 800px;
-display: flex;
-flex-direction: column;
 border-radius: 24px;
 padding: 24px;
 background-color: #F0E8C2;
@@ -14,4 +19,24 @@ margin: 48px auto;
 
 img{
  border-radius: 16px;
+}
+
+h1{
+ line-height: 140%;
+ font-size: 40px;
+ color: #291B1A;
+}
+
+h2{
+  line-height: 24px;
+  color: #291B1A;
+}
+
+p, li{
+  color: #573A37;
+}
+
+
+footer{
+  align-items: center;
 }
