@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 Coffee cupcakes with whipped cream recipe page.
 
-- [Access the finished project online](https://gusfornari.github.io/Pagina-de-receita/)
+- [Access the finished project online](https://gusfornari.github.io/Recipe-Page/)
 
 ## 🔖 Layout
 
